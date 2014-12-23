@@ -228,7 +228,7 @@ MonoBehaviour:
   controls:
     gasOn: 0
   motor:
-    gasPower: 80
+    gasPower: 1
 --- !u!114 &607035535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -367,7 +367,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: motor.gasPower
-      value: 80
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: controls.gasOn
