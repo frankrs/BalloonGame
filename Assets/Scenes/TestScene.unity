@@ -113,6 +113,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: motor.gasPower
+      value: 1.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
   m_RootGameObject: {fileID: 1382658498}
@@ -350,7 +354,7 @@ MonoBehaviour:
   controls:
     gasOn: 0
   motor:
-    gasPower: 1
+    gasPower: 1.5
 --- !u!50 &1382658501
 Rigidbody2D:
   m_ObjectHideFlags: 0
