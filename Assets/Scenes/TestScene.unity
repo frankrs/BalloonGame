@@ -278,7 +278,11 @@ MonoBehaviour:
   controls:
     gasOn: 0
   motor:
+<<<<<<< HEAD
     gasPower: 60
+=======
+    gasPower: 1
+>>>>>>> 464e04d7383325482943f2c14be3e73d0fc64cdd
 --- !u!114 &607035535
 MonoBehaviour:
   m_ObjectHideFlags: 0
