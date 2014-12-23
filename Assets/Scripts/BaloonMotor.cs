@@ -14,7 +14,7 @@ public class BaloonMotor : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 		if(controls.gasOn){
-			rigidbody2D.AddForce(new Vector2(0f,motor.gasPower * Time.deltaTime));
+			rigidbody2D.AddForce(new Vector2(0f,motor.gasPower));
 		}
 	}
 }
