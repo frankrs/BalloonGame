@@ -278,7 +278,11 @@ MonoBehaviour:
   controls:
     gasOn: 0
   motor:
+<<<<<<< HEAD
     gasPower: 60
+=======
+    gasPower: 1
+>>>>>>> 464e04d7383325482943f2c14be3e73d0fc64cdd
 --- !u!114 &607035535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -417,7 +421,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: motor.gasPower
+<<<<<<< HEAD
       value: 60
+=======
+      value: 1
+>>>>>>> 464e04d7383325482943f2c14be3e73d0fc64cdd
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: controls.gasOn
