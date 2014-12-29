@@ -83,11 +83,27 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: m_LocalPosition.x
+<<<<<<< HEAD
       value: 16.7960815
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: m_LocalPosition.y
       value: 22.7633057
+=======
+<<<<<<< HEAD
+      value: 6.51999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.5200005
+=======
+      value: 16.7960815
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 22.7633057
+>>>>>>> origin/master
+>>>>>>> 9d684b0e5ea942d74a4ce958dd9f5a69861659f3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: m_LocalPosition.z
@@ -113,6 +129,30 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - target: {fileID: 5000000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: m_GravityScale
+      value: .0500000007
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: motor.gasPower
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5000000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5000000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: m_FixedAngle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5000000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
+      propertyPath: m_Mass
+      value: .600000024
+=======
+>>>>>>> 9d684b0e5ea942d74a4ce958dd9f5a69861659f3
     - target: {fileID: 21200000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: m_Enabled
       value: 1
@@ -128,6 +168,10 @@ Prefab:
     - target: {fileID: 21200000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
       propertyPath: m_Color.b
       value: .0583910011
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> 9d684b0e5ea942d74a4ce958dd9f5a69861659f3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
@@ -508,8 +552,18 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: f810a2c795edeec4cbc2391d13916406, type: 2}
   m_PrefabInternal: {fileID: 663631107}
   m_GameObject: {fileID: 1382658498}
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: .333708197, w: -.942676485}
   m_LocalPosition: {x: 16.7960815, y: 22.7633057, z: 0}
+=======
+<<<<<<< HEAD
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.51999998, y: 14.5200005, z: 0}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: .333708197, w: -.942676485}
+  m_LocalPosition: {x: 16.7960815, y: 22.7633057, z: 0}
+>>>>>>> origin/master
+>>>>>>> 9d684b0e5ea942d74a4ce958dd9f5a69861659f3
   m_LocalScale: {x: .120004177, y: .116930716, z: .189805552}
   m_Children: []
   m_Father: {fileID: 0}
